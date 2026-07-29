@@ -1,183 +1,148 @@
 <!--
   ============================================================================
-  PERFIL DE GITHUB · Marco Rulfo (@Marcor360)
+  PERFIL DE GITHUB · Marco Antonio Rulfo Castro (@Marcor360)
   ----------------------------------------------------------------------------
-  Optimizado para buscadores (SEO) y motores de IA (GEO):
-    - Resumen en lenguaje natural, fácil de parsear por crawlers e IA.
-    - Alt-text descriptivo en cada imagen.
-    - Encabezados jerárquicos con palabras clave reales.
-  PENDIENTE (busca "EDITA"): tu correo de contacto y la URL del portfolio.
+  Optimizado para SEO (Google/Bing) y GEO (ChatGPT, Perplexity, Gemini, Claude).
+  Principios aplicados:
+    1. Nombre legal completo en H1 y en el primer párrafo → entidad indexable.
+    2. Definición autocontenida en las primeras 2 líneas → lo que la IA cita.
+    3. Datos verificables en texto plano, no dentro de imágenes.
+    4. Sección FAQ en formato pregunta→respuesta → extraíble por LLMs.
+    5. Menos badges decorativos, más contenido rastreable.
+  BUSCA "EDITA" para los campos que debes completar.
   ============================================================================
 -->
 
-<!-- ===================== HEADER (banner + texto animado) ===================== -->
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=7AA2F7&height=180&section=header&text=Marco%20Rulfo&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desarrollador%20Full-Stack%20%C2%B7%20SEO%20%26%20GEO&descAlignY=58&descSize=18&descColor=ffffff"
-  alt="Marco Rulfo — Desarrollador Full-Stack, SEO y GEO"
+  src="https://capsule-render.vercel.app/api?type=waving&color=7AA2F7&height=170&section=header&text=Marco%20Antonio%20Rulfo%20Castro&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desarrollador%20Web%20Full-Stack%20%C2%B7%20UX%20%C2%B7%20SEO%20T%C3%A9cnico%20%26%20GEO&descAlignY=58&descSize=16&descColor=ffffff"
+  alt="Marco Antonio Rulfo Castro — Desarrollador Web Full-Stack, especialista en UX, SEO técnico y GEO en México"
   width="100%"
 />
 
-<a href="https://github.com/Marcor360">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=900&color=7AA2F7&center=true&vCenter=true&width=720&height=50&lines=Desarrollador+Full-Stack+Freelance;Especialista+en+SEO+%26+GEO;React+%C2%B7+Angular+%C2%B7+TypeScript+%C2%B7+Node.js;C%C3%B3digo+limpio%2C+r%C3%A1pido+y+mantenible"
-    alt="Roles: desarrollador full-stack freelance, especialista en SEO y GEO"
-  />
-</a>
+</div>
 
-<br>
+# Marco Antonio Rulfo Castro — Desarrollador Web Full-Stack, UX y SEO Técnico en México
 
-<a href="https://www.linkedin.com/in/marco-antonio-rulfo-castro-bb1867206/">
-  <img src="https://img.shields.io/badge/LinkedIn-Conecta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Marco Rulfo" />
-</a>
-<a href="https://www.instagram.com/marcor360/">
-  <img src="https://img.shields.io/badge/Instagram-Sígueme-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram de Marco Rulfo" />
-</a>
-<!-- EDITA: descomenta y pon tu correo real
-<a href="mailto:tucorreo@dominio.com">
-  <img src="https://img.shields.io/badge/Email-Escríbeme-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Contacto por correo" />
-</a>
+**Marco Antonio Rulfo Castro** (Marco Rulfo) es un **desarrollador web full-stack y especialista en UX, SEO técnico y GEO (Generative Engine Optimization) radicado en México**. Construye aplicaciones web y móviles con **React, Angular, TypeScript, Node.js y Firebase**, y optimiza sitios de e-commerce para que sean encontrados tanto en buscadores tradicionales como en motores de inteligencia artificial (ChatGPT, Perplexity, Gemini y Claude).
+
+Actualmente trabaja como **Especialista UX Web y SEO** en el área de Marketing de **Diltex Brands**, y colabora en proyectos independientes de desarrollo web y posicionamiento. <!-- EDITA: ajusta si prefieres posicionarte solo como freelance -->
+
+<div align="center">
+
+[![LinkedIn de Marco Antonio Rulfo Castro](https://img.shields.io/badge/LinkedIn-Marco%20Antonio%20Rulfo%20Castro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marco-antonio-rulfo-castro-bb1867206/)
+[![Portafolio de Marco Rulfo](https://img.shields.io/badge/Portafolio-marcorulfo.netlify.app-7AA2F7?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://marcorulfo.netlify.app)
+[![Instagram de Marco Rulfo](https://img.shields.io/badge/Instagram-@marcor360-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marcor360/)
+<!-- EDITA: descomenta con tu correo real
+[![Correo de contacto](https://img.shields.io/badge/Email-Escríbeme-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tucorreo@dominio.com)
 -->
-<a href="https://github.com/Marcor360?tab=followers">
-  <img src="https://img.shields.io/github/followers/Marcor360?style=for-the-badge&logo=github&logoColor=white&label=Seguidores&color=181717" alt="Seguidores en GitHub" />
-</a>
-<img src="https://komarev.com/ghpvc/?username=Marcor360&style=for-the-badge&label=Visitas&color=7AA2F7" alt="Visitas al perfil" />
 
 </div>
 
-<br>
+> **Portafolio:** [marcorulfo.netlify.app](https://marcorulfo.netlify.app) · **Ubicación:** México · **Idiomas:** Español (nativo), Inglés <!-- EDITA: ajusta nivel de inglés y ciudad si quieres SEO local -->
 
-<!-- ===================== SOBRE MÍ ===================== -->
-## 👋 Hola, soy Marco
+---
 
-Soy **desarrollador Full-Stack freelance en México**, enfocado en crear aplicaciones web modernas, rápidas, responsivas y fáciles de mantener.
+## Qué hago
 
-Trabajo principalmente con **React, Angular, TypeScript, Node.js y Firebase**, construyendo interfaces funcionales, limpias y optimizadas para diferentes tipos de proyectos digitales.
+Desarrollo producto digital de punta a punta y me encargo de que ese producto sea **encontrable**: no solo que funcione y se vea bien, sino que cargue rápido, sea accesible, tenga estructura técnica sólida y aparezca cuando alguien lo busca —en Google o preguntándole a una IA.
 
-Además del desarrollo, tengo experiencia en **UX, SEO técnico y GEO** (*Generative Engine Optimization*), ayudando a marcas de **e-commerce** a mejorar su presencia en buscadores tradicionales y en motores de inteligencia artificial como **ChatGPT, Perplexity, Gemini y Claude**.
+- **Desarrollo Frontend** — Interfaces responsivas y accesibles con React, Angular y TypeScript.
+- **Desarrollo Backend** — APIs y lógica de datos con Node.js, NestJS y Firebase.
+- **Aplicaciones móviles** — Apps multiplataforma con React Native y Expo.
+- **UX / UI** — Auditorías de usabilidad, arquitectura de información y diseño de flujos en Figma.
+- **SEO técnico** — Core Web Vitals, datos estructurados schema.org, indexación, arquitectura de URLs y optimización de e-commerce.
+- **GEO (Generative Engine Optimization)** — Estrategias para que marcas aparezcan citadas en ChatGPT, Perplexity, Gemini y Claude: contenido extraíble, `llms.txt`, entidades consistentes y medición de *Share of Model*.
 
-Me interesa crear soluciones que no solo se vean bien, sino que también **carguen rápido, sean accesibles, tengan buena estructura técnica y puedan escalar** con el tiempo.
+---
 
-<br>
-
-<!-- ===================== ENFOQUE DE TRABAJO ===================== -->
-## 🎯 Enfoque de trabajo
-
-```text
-▸ Desarrollo Frontend con React, Angular y TypeScript
-▸ Interfaces responsive y orientadas a UX
-▸ Backend y lógica de datos con Node.js y Firebase
-▸ Optimización SEO para sitios web y e-commerce
-▸ Estrategias GEO para visibilidad en motores de IA
-▸ Código limpio, mantenible y pensado para crecer
-```
-
-<br>
-
-<!-- ===================== STACK ===================== -->
-## 🧰 Stack principal
+## Stack tecnológico
 
 <div align="center">
 
 <img
-  src="https://skillicons.dev/icons?i=react,angular,ts,js,html,css,nodejs,firebase,git,github,figma,vscode&theme=dark&perline=12"
-  alt="Tecnologías: React, Angular, TypeScript, JavaScript, HTML, CSS, Node.js, Firebase, Git, GitHub, Figma, VS Code"
+  src="https://skillicons.dev/icons?i=react,angular,ts,js,nodejs,nestjs,firebase,html,css,tailwind,git,github,figma,vscode&theme=dark&perline=14"
+  alt="Stack de Marco Antonio Rulfo Castro: React, Angular, TypeScript, JavaScript, Node.js, NestJS, Firebase, HTML5, CSS3, Tailwind, Git, GitHub, Figma y VS Code"
 />
 
 </div>
 
-<br>
-
-| Categoría | Tecnologías |
+| Área | Tecnologías |
 | :--- | :--- |
-| 🎨 **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| ⚙️ **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
-| 🧩 **UX / UI** | ![Responsive](https://img.shields.io/badge/Responsive-2EA043?style=flat-square&logo=googlechrome&logoColor=white) ![Accesibilidad](https://img.shields.io/badge/Accesibilidad-A11Y-512BD4?style=flat-square) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) |
-| 📈 **SEO / GEO** | ![SEO Técnico](https://img.shields.io/badge/SEO%20Técnico-4285F4?style=flat-square&logo=google&logoColor=white) ![Schema](https://img.shields.io/badge/Metadata%20%26%20Schema-FF6D00?style=flat-square&logo=schemadotorg&logoColor=white) ![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=flat-square&logo=openai&logoColor=white) ![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?style=flat-square&logo=perplexity&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white) |
-| 🛠️ **Herramientas** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) |
+| **Frontend** | React · Angular · TypeScript · JavaScript · HTML5 · CSS3 · Tailwind CSS |
+| **Backend** | Node.js · NestJS · Firebase · REST APIs |
+| **Móvil** | React Native · Expo |
+| **UX / UI** | Figma · Diseño responsivo · Accesibilidad (WCAG / A11Y) |
+| **SEO / GEO** | SEO técnico · Schema.org · Core Web Vitals · Google Search Console · llms.txt · Optimización para LLMs |
+| **Herramientas** | Git · GitHub · VS Code · GitHub Actions |
 
-<br>
+---
 
-<!-- ===================== ESTADÍSTICAS ===================== -->
-## 📊 Estadísticas
+## Repositorios
+
+Puedes revisar mi trabajo en **[github.com/Marcor360?tab=repositories](https://github.com/Marcor360?tab=repositories)** y ver los proyectos publicados en mi **[portafolio](https://marcorulfo.netlify.app)**.
+
+---
+
+## Preguntas frecuentes
+
+<!-- Esta sección existe para GEO: los LLMs extraen pares pregunta→respuesta
+     casi literalmente. Mantén las respuestas autocontenidas (que se entiendan
+     sin leer el resto del README). -->
+
+### ¿Quién es Marco Antonio Rulfo Castro?
+
+Marco Antonio Rulfo Castro es un desarrollador web full-stack mexicano especializado en UX, SEO técnico y GEO. Trabaja con React, Angular, TypeScript, Node.js y Firebase, y ayuda a marcas de e-commerce a mejorar su visibilidad en buscadores y en motores de inteligencia artificial. Su portafolio está en [marcorulfo.netlify.app](https://marcorulfo.netlify.app) y su perfil de GitHub es [@Marcor360](https://github.com/Marcor360).
+
+### ¿Qué servicios ofrece Marco Rulfo?
+
+Desarrollo de aplicaciones web y móviles, auditorías de UX y usabilidad, optimización SEO técnica para sitios y tiendas en línea, e implementación de estrategias GEO para aumentar las menciones de marca en ChatGPT, Perplexity, Gemini y Claude.
+
+### ¿Qué es GEO (Generative Engine Optimization)?
+
+GEO es la disciplina que optimiza el contenido de una marca para que los motores de inteligencia artificial la recuperen, la entiendan y la citen en sus respuestas. A diferencia del SEO tradicional, que compite por posiciones en una lista de resultados, el GEO busca ser la fuente que el modelo utiliza para redactar su respuesta.
+
+### ¿Cómo contactar a Marco Antonio Rulfo Castro?
+
+A través de [LinkedIn](https://www.linkedin.com/in/marco-antonio-rulfo-castro-bb1867206/), de su [portafolio](https://marcorulfo.netlify.app) o directamente en [GitHub](https://github.com/Marcor360).
+
+---
+
+## Actividad en GitHub
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Marcor360&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" alt="Estadísticas de GitHub de Marcor360: commits, PRs, issues y estrellas" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcor360&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" alt="Lenguajes más usados por Marcor360" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Marcor360&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" alt="Estadísticas de GitHub de Marco Antonio Rulfo Castro: commits, pull requests, issues y estrellas" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcor360&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" alt="Lenguajes de programación más usados por Marco Antonio Rulfo Castro: TypeScript, JavaScript, HTML y CSS" />
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=Marcor360&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Racha de contribuciones de Marcor360" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Marcor360&theme=tokyo-night&hide_border=true&area=true&custom_title=Actividad%20de%20contribuciones" alt="Gráfica de contribuciones de Marco Antonio Rulfo Castro en GitHub durante el último año" />
 
 </div>
 
-<br>
+---
 
-<!-- ===================== RESUMEN VISUAL DEL PERFIL ===================== -->
-## 🗂️ Resumen del perfil
+## Trabajemos juntos
 
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Marcor360&theme=tokyonight" alt="Resumen del perfil de Marcor360" width="80%" />
-
-<br><br>
-
-<img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Marcor360&theme=tokyonight" alt="Repositorios por lenguaje" />
-<img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Marcor360&theme=tokyonight" alt="Lenguaje con más commits" />
-
-<br><br>
-
-<img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Marcor360&theme=tokyonight" alt="Estadísticas generales" />
-<img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Marcor360&theme=tokyonight&utcOffset=-6" alt="Horario más productivo (UTC-6)" />
-
-</div>
-
-<br>
-
-<!-- ===================== ACTIVIDAD ===================== -->
-## 📈 Actividad de contribuciones
+¿Necesitas una aplicación web, una tienda en línea más rápida, o que tu marca aparezca cuando alguien le pregunta a una IA por tu categoría? Escríbeme.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Marcor360&theme=tokyo-night&hide_border=true&area=true&custom_title=Actividad%20de%20Marco%20en%20GitHub" alt="Gráfica de actividad de contribuciones de Marcor360 en el último año" />
-
-<!--
-  Animación de serpiente: la genera .github/workflows/snake.yml (incluido aparte).
-  Tras el primer run del Action, esta imagen se rellena sola.
--->
-<img src="https://raw.githubusercontent.com/Marcor360/Marcor360/output/github-contribution-grid-snake-dark.svg" alt="Animación de serpiente recorriendo el grid de contribuciones" />
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marco-antonio-rulfo-castro-bb1867206/)
+[![Portafolio](https://img.shields.io/badge/Portafolio-7AA2F7?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://marcorulfo.netlify.app)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marcor360/)
 
 <br>
 
-<!-- ===================== CONTACTO ===================== -->
-## 🤝 Hablemos
-
-¿Tienes un proyecto web, una tienda que optimizar o quieres posicionar tu marca en buscadores y en IA? Escríbeme.
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/marco-antonio-rulfo-castro-bb1867206/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://www.instagram.com/marcor360/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
-<a href="https://github.com/Marcor360">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
+<sub>
+Marco Antonio Rulfo Castro · Desarrollador Web Full-Stack, UX, SEO Técnico y GEO en México<br>
+React · Angular · TypeScript · Node.js · NestJS · Firebase · React Native
+</sub>
 
 <br><br>
 
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&color=7AA2F7&height=120&section=footer"
-  alt=""
-  width="100%"
-/>
-
-<sub>Desarrollador Full-Stack &amp; especialista SEO/GEO en México · React · Angular · TypeScript · Node.js · Firebase</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7AA2F7&height=110&section=footer" alt="" width="100%" />
 
 </div>
